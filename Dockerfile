@@ -1,5 +1,5 @@
 FROM ubuntu:latest
-MAINTAINER Adam J. McPartlan "adam.mcpartlan@nynet.co.uk"
+MAINTAINER Adam J. McPartlan "mcparty@gmail.com"
 ENV UPDATED 04-01-2017
 
 ## To Add - networking & volumes ##
